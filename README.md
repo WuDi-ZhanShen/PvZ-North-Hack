@@ -1,2 +1,3 @@
 # PvZ-North-Hack
-Android Studio Project by Reverse Engineering The Popcap Game "PvZ-North"
+Android Studio Project Reverse Engineered from the Popcap Game "PvZ-North".
+
